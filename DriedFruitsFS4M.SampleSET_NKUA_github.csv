@@ -1,0 +1,37 @@
+Code;Sample Number;TYPE;Product type;Country of Origin;Sampling Date;Results
+R2;1;dried fruits;Black rasin;Greece;31/10/2023;OTA, ZON (>LOD)
+R3;2;dried fruits;Raisin ;Greece;31/10/2023;OTA (>LOQ)
+R5;3;dried fruits;Sultana raisin;Greece;31/10/2023;OTA (>LOQ)
+D1,D2,D3 (for cranberry, blueberry, strawberry);4;dried fruits;Strawberries;Greece;31/10/2023;D1 (ZON, >LOD), D2 (OTA, T2, >LOD) and (ZON>LOD), D3 (Absense)
+R4;5;dried fruits;Raisin Blonde;Greece;31/10/2023;OTA (>LOQ), ZON (>LOD)
+R1;6;dried fruits;Raisin Black ;Greece;31/10/2023;OTA (>LOQ)
+R6;7;dried fruits;Corinthian currants ;Greece;1/11/2023;OTA (>LOQ), ZON (>LOQ)
+R7;8;dried fruits;Raisins;Greece;1/11/2023;Absense
+R8;9;dried fruits;by products Raisins;Greece;1/11/2023;ZON (>LOD)
+R9;10;dried fruits;Raisin Black ;Greece;1/8/2023;AME (>LOQ)
+R10;11;dried fruits;Raisin Black ;Greece;March 2024;Absense
+R11;12;dried fruits;Raisin Blonde;Greece;March 2024;Absense
+R12;13;dried fruits;Raisin Blonde;Greece;March 2024;Absense
+R13;14;dried fruits;Raisin Black ;Greece;March 2024;AFB1 (>LOQ)
+R14;15;dried fruits;Raisin Black ;Turkey;March 2024;OTA (>LOQ)
+R15;16;dried fruits;Raisin Blonde;Turkey;March 2024;AFB2, AFG1, AFG2, OTA (>LOQ), ZON (>LOD)
+R16;17;dried fruits;Soultana Raisin;Greece;May 2024;Absense
+R17;18;dried fruits;Soultana Raisin;Turkey;May 2024;Absense
+R18;19;dried fruits;Black rasin;Turkey;May 2024;Absense
+R19;20;dried fruits;Black rasin;Greece;May 2024;OTA, ZON, DON (>LOQ)
+R20;21;dried fruits;Black rasin;Greece;15/7/2024;Absense
+R21;22;dried fruits;Corinthian currants ;Greece;15/7/2024;OTA, T2, DON (>LOQ), ZON (>LOD)
+R22;23;dried fruits;Sultana raisin;Greece;15/7/2024;OTA (>LOQ)
+R23;24;dried fruits;Cranberries;Chech republic;14.10.2024;Absense
+R24;25;dried fruits;Brown raisins;Germany;14.10.2024;ZON (>LOQ)
+R25;26;dried fruits;Golden Raisins;Iran;14.10.2024;Absense
+R26;27;dried fruits;Cranberries;USA;14.10.2024;ZON (>LOQ)
+R27;28;dried fruits;Black rasin;Greece;14.10.2024;OTA (>LOQ)
+R28;29;dried fruits;Blonde raisin;Imported NA;14.10.2024;OTA, ZON, T2 (>LOQ)
+R29;30;dried fruits;Raisin black organic Korinth;Greece;07.11.2024;OTA, ZON (>LOQ)
+R30;31;dried fruits;Sultana raisin (blonde) organic ;Greece;07.11.2024;AME (>LOQ)
+R31;32;dried fruits;Organic dried cranberries (without sugar);Canada;07.11.2024;AME (>LOQ)
+R32;33;dried fruits;Blueberry;Serbia;07.11.2024;Absense
+R33;34;dried fruits;Organic dried aronia berries;Greece;07.11.2024;AOH, AME, ZON (>LOQ)
+R34;35;dried fruits;Goji berries;China;07.11.2024;Absense
+;;;;;;
