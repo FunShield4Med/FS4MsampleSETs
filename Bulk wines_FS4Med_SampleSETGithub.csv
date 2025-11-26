@@ -1,0 +1,179 @@
+﻿code ;Replicate;Origin;Color;Type;Varieties;Delivered to ITAP;Alcoholic Title (v/v %);pH;TA (tart. Ac. g/L);VA (ac.Ac. g/L);TPI;Ochratoxin (ppb)
+1;a;Thessaloniki;rose;dry;Roditis (Alepou)/Merlot;30/4/2025;12.4;3.28;5.3;0.29;6.77;<LOQ
+1;b;Thessaloniki;rose;dry;Roditis (Alepou)/Merlot;30/4/2025;12.8;3.44;5.42;0.25;7.23;<LOQ
+2;a;Goumenissa;white;dry;Unknown;30/4/2025;12.5;3.02;5.32;0.34;5.45;<LOQ
+2;b;Goumenissa;white;dry;Unknown;30/4/2025;12.2;3.1;5.64;0.29;4.82;<LOQ
+3;a;Goumenissa;red;dry;Unknown;30/4/2025;14.5;3.58;5.86;0.59;121.93;<LOQ
+3;b;Goumenissa;red ;dry;Unknown;30/4/2025;14;3.47;5.74;0.45;112.24;<LOQ
+4;a;Thessaloniki;red ;sweet;Unknown;30/4/2025;13.1;3.93;5.15;0.55;31.54;<LOQ
+4;b;Thessaloniki;red ;sweet;Unknown;30/4/2025;12.9;3.87;5.07;0.49;35.4;<LOQ
+5;a;Thessaloniki;white ;dry;Unknown;30/4/2025;12.2;3.77;5;0.72;7.47;0.51
+5;b;Thessaloniki;white ;dry;Unknown;30/4/2025;12.51;3.54;4.74;0.65;9.21;ΝΑ
+6;a;Thessaloniki;white ;dry;Moschato;30/4/2025;11;3.29;4.72;0.57;7.9;<LOQ
+6;b;Thessaloniki;white ;dry;Moschato;30/4/2025;11.5;3.43;4.65;0.63;10;<LOQ
+7;a;Thessaloniki;white ;dry;Unknown;30/4/2025;11;3.32;5.18;0.38;13.27;<LOQ
+7;b;Thessaloniki;white ;dry;Unknown;30/4/2025;11.2;3.41;5.25;0.29;12.11;<LOQ
+8;a;Thessaloniki;red;dry;Unknown;30/4/2025;12.1;3.3;6.17;0.48;43.67;0.55
+8;b;Thessaloniki;red;dry;Unknown;30/4/2025;11.25;3.54;5.48;0.4;45.21;ΝΑ
+9;a;Athina Petroupoli;red;dry;Mesenikola;14/4/2025;11.1;3.72;4.9;0.52;54.41;<LOQ
+9;b;Athina Petroupoli;red;dry;Mesenikola;14/4/2025;10.78;3.45;4.45;0.45;51.21;<LOQ
+10;a;Athina Petroupoli;red;semi- sweet;Unknown;14/4/2025;12.1;4.12;4.55;0.38;36.72;<LOQ
+10;b;Athina Petroupoli;red;semi- sweet;Unknown;14/4/2025;12.5;4.28;0.51;0.34;33.45;<LOQ
+11;a;Athina Petroupoli;rose;dry;Unknown;14/4/2025;12.3;3.69;4.61;0.4;19.2;<LOQ
+11;b;Athina Petroupoli;rose;dry;Unknown;14/4/2025;11.9;3.87;4.98;0.47;20.1;<LOQ
+12;a;Athina Petroupoli;white ;dry;Moschato;14/4/2025;12;3.48;4.3;0.32;13.87;<LOQ
+12;b;Athina Petroupoli;white ;dry;Moschato;14/4/2025;12.4;3.54;4.41;0.41;12.87;<LOQ
+13;a;Boeotia;white ;dry;Malagouzia;14/4/2025;12.6;3.44;4.96;0.36;8.68;<LOQ
+13;b;Boeotia;white ;dry;Malagouzia;14/4/2025;12.2;3.35;5.1;0.41;9.63;<LOQ
+14;a;Boeotia;white ;dry;Chardonay;14/4/2025;13.1;3.59;4.23;0.43;8.4;<LOQ
+14;b;Boeotia;white ;dry;Chardonay;14/4/2025;12.7;3.69;4.14;0.35;8.01;<LOQ
+15;a;Boeotia;white ;dry;Savvatiano;14/4/2025;12.7;3.44;4.34;0.28;13.54;<LOQ
+15;b;Boeotia;white ;dry;Savvatiano;14/4/2025;12.4;3.35;4.02;0.24;12.54;<LOQ
+16;a;Boeotia;rose;dry;S. blanc;14/4/2025;13.2;3.51;4.55;0.39;10.16;<LOQ
+16;b;Boeotia;rose;dry;S. blanc;14/4/2025;12.9;3.39;4.7;0.45;11;<LOQ
+17;a;Boeotia;rose;dry;Syrah rose;14/4/2025;13.3;3.66;4.5;0.21;19.55;<LOQ
+17;b;Boeotia;rose;dry;Syrah rose;14/4/2025;13;3.55;4.14;0.25;20;<LOQ
+18;a;Boeotia;red;dry;Cabernet;14/4/2025;13.5;3.51;5.38;0.52;63.69;<LOQ
+18;b;Boeotia;red;dry;Cabernet;14/4/2025;13.8;3.45;5.12;0.47;60.14;<LOQ
+19;a;Boeotia;red;dry;Merlot;14/4/2025;13.4;3.74;4.43;0.54;78.44;<LOQ
+19;b;Boeotia;red;dry;Merlot;14/4/2025;13.2;3.66;4.57;0.48;69.96;<LOQ
+20;a;Boeotia;red;dry;Syrah Mouchtaro;14/4/2025;12.8;3.72;5.18;0.53;59.87;<LOQ
+20;b;Boeotia;red;dry;Syrah Mouchtaro;14/4/2025;12.5;3.64;4.98;0.5;55.41;<LOQ
+21;a;Nemea;red;semi-sweet;Agiorgitiko?;10/5/2025;11.7;3.83;4.75;0.57;48.63;<LOQ
+21;b;Nemea;red;semi-sweet;Agiorgitiko?;10/5/2025;11.1;3.71;4.54;0.45;54;<LOQ
+22;a;Athina;white ;dry;Unknown;21/5/2025;11.9;3.24;5.34;0.42;12.01;<LOQ
+22;b;Athina;white ;dry;Unknown;21/5/2025;12;3.31;5.09;0.48;11;<LOQ
+23;a;Meganisi;white ;dry;Unknown;21/5/2025;10.5;3.52;7.99;0.66;6.09;0.10
+23;b;Meganisi;white ;dry;Unknown;21/5/2025;11;3.41;7.54;0.75;8.9;ΝΑ
+24;a;Meganisi;rose;dry;Unknown;21/5/2025;10.5;3.52;5.77;0.69;23.17;0.10
+24;b;Meganisi;rose;dry;Unknown;21/5/2025;11;3.45;5.67;0.65;28.21;ΝΑ
+25;a;Meganisi;rose;sweet;Unknown;21/5/2025;12.3;3.35;6.7;0.75;48.55;0.28
+25;b;Meganisi;rose;sweet;Unknown;21/5/2025;12;3.4;6.1;0.69;512; ΝΑ
+26;a;Naousa;red;dry;Ksinomavro-Syrah;17/6/2025;12;3.84;5.19;0.4;43.98;<LOQ
+26;b;Naousa;red;dry;Ksinomavro-Syrah;17/6/2025;11.9;3.74;5.54;0.51;45;<LOQ
+27;a;Zitsa Ioannina;white;dry;Ntempina - Roditis;17/6/2025;11.5;3.49;4.58;0.32;17.68;<LOQ
+27;b;Zitsa Ioannina;white;dry;Ntempina - Roditis;17/6/2025;11.2;3.41;4.5;0.29;20.1;<LOQ
+28;a;Zitsa Ioannina;rose;dry;Ntempina - Ksinomavro;17/6/2025;11.9;3.62;3.54;0.36;27.28;<LOQ
+28;b;Zitsa Ioannina;rose;dry;Ntempina - Ksinomavro;17/6/2025;12;3.54;3.5;0.31;30.1;<LOQ
+29;a;Mikrothives Magnisias;red;dry;Unknown;17/6/2025;13;3.68;5.47;0.62;45.15;<LOQ
+29;b;Mikrothives Magnisias;red;dry;Unknown;17/6/2025;12.7;3.58;5.32;0.69;48.01;<LOQ
+30;a;Alimos Attiki;rose;semi- sweet;Unknown;17/6/2025;12;3.47;4.68;0.31;26.02;<LOQ
+30;b;Alimos Attiki;rose;semi- sweet;Unknown;17/6/2025;12.5;3.39;4.54;0.41;27.2;<LOQ
+31;a;Peristeri;rose;dry;Unknown;17/6/2025;11.7;3.5;4.68;0.33;20.52;<LOQ
+31;b;Peristeri;rose;dry;Unknown;17/6/2025;12.2;3.33;4.51;0.27;22.14;<LOQ
+32;a;Peristeri;red;dry;Unknown;17/6/2025;11.8;3.47;5.35;0.54;30.32;<LOQ
+32;b;Peristeri;red;dry;Unknown;17/6/2025;11.9;3.33;5.22;0.44;33.1;<LOQ
+33;a;Peristeri;red;semi- sweet;Unknown;17/6/2025;10.6;3.59;3.79;0.4;34;<LOQ
+33;b;Peristeri;red;semi- sweet;Unknown;17/6/2025;10.4;3.43;3.65;0.45;32.4;<LOQ
+34;a;Peristeri;red;semi- sweet;Unknown;17/6/2025;9.8;3.64;3.51;0.23;25;<LOQ
+34;b;Peristeri;red;semi- sweet;Unknown;17/6/2025;10;3.5;3.56;0.26;28.92;<LOQ
+35;a;Uknown;red;sweet;Unknown;17/6/2025;6.9;3.21;3.71;1.59;60.63;<LOQ
+35;b;Uknown;red;sweet;Unknown;17/6/2025;7.3;3.36;3.87;1.69;72.3;<LOQ
+36;a;Uknown;red;sweet;Unknown;17/6/2025;7.2;3.37;5.22;0.34;14.07;<LOQ
+36;b;Uknown;red;sweet;Unknown;17/6/2025;7.5;3.41;5.12;0.29;12.99;<LOQ
+37;a; Murcia Spain;red;sweet;Unknown;17/6/2025;10;3.33;2.48;0.82;48.55;<LOQ
+37;b; Murcia Spain;red;sweet;Unknown;17/6/2025;10.3;3.45;2.55;0.9;50.21;<LOQ
+38;a;Peza Kriti;white;dry;Vilana Vidiano Thrapsathiri;17/6/2025;11.5;3.32;4.67;0.33;11.62;<LOQ
+38;b;Peza Kriti;white;dry;Vilana Vidiano Thrapsathiri;17/6/2025;11.7;3.41;4.69;0.32;12.3;<LOQ
+39;a;Peza Kriti;red;dry;Unknown;17/6/2025;11.2;3.49;5.69;0.55;40.6;0.33
+39;b;Peza Kriti;red;dry;Unknown;17/6/2025;11.6;3.58;5.45;0.61;42;ΝΑ
+40;a;Peza Kriti;red;semi- sweet;Mantilari Kotsifali;17/6/2025;12.1;3.64;5.22;0.41;59.29;0.47
+40;b;Peza Kriti;red;semi- sweet;Mantilari Kotsifali;17/6/2025;12.5;3.54;5.14;0.38;60.2;ΝΑ
+41;a;Peza Kriti;red;dry;Unknown;17/6/2025;10.9;3.3;6.16;0.43;42.52;0.68
+41;b;Peza Kriti;red;dry;Unknown;17/6/2025;11.5;3.21;6.07;0.36;45.21;ΝΑ
+42;a;Eksamili Korinthias;red;dry;Unknown;17/6/2025;11.3;3.39;5.82;0.62;NA;<LOQ
+42;b;Eksamili Korinthias;red;dry;Unknown;17/6/2025;11.2;3.41;5.97;0.69;NA;<LOQ
+43;a;Alimos Attiki;white;dry;Moschofilero Roditis;17/6/2025;11.7;3.33;4.9;0.34;11.54;<LOQ
+43;b;Alimos Attiki;white;dry;Moschofilero Roditis;17/6/2025;12.1;3.24;4.71;0.39;12.4;<LOQ
+44;a;Unknown;white;dry;Unknown;17/6/2025;11.2;3.65;4.07;0.32;17.87;<LOQ
+44;b;Unknown;white;dry;Unknown;17/6/2025;11.9;3.71;4.21;0.41;20.4;<LOQ
+45;a;Unknown;red;dry;Unknown;17/6/2025;12.1;3.27;5.24;0.45;55.21;<LOQ
+45;b;Unknown;red;dry;Unknown;17/6/2025;12.5;3.54;5.43;0.38;51.28;<LOQ
+46;a;Athens;white;dry;Unknown;17/6/2025;11.8;3.44;4.15;0.32;11.22;<LOQ
+46;b;Athens;white;dry;Unknown;17/6/2025;12;3.54;4.45;0.41;12.4;<LOQ
+47;a;Athens;red;dry;Unknown;17/6/2025;12.7;3.74;5.05;0.47;42.14;<LOQ
+47;b;Athens;red;dry;Unknown;17/6/2025;12;3.65;4.97;0.39;40.2;<LOQ
+48;a;Athens;rose;dry;Unknown;17/6/2025;11.8;3.51;4.82;0.38;15.79;<LOQ
+48;b;Athens;rose;dry;Unknown;17/6/2025;12;3.4;5.01;0.45;19.2;<LOQ
+49;a;Athens;rose;semi- sweet;Unknown;17/6/2025;11;3.33;4.36;0.21;26.77;<LOQ
+49;b;Athens;rose;semi- sweet;Unknown;17/6/2025;11.5;3.21;4.54;0.31;25;<LOQ
+50;a;Athens;white;dry;Moschato and more;18/6/2025;11.7;3.49;4.66;0.27;14.86;<LOQ
+50;b;Athens;white;dry;Moschato and more;18/6/2025;12.1;3.51;4.51;0.31;18.2;<LOQ
+51;a;Athens;rose;semi- sweet;Unknown;19/6/2025;11.7;3.84;4.39;0.41;31.89;<LOQ
+51;b;Athens;rose;semi- sweet;Unknown;19/6/2025;11.6;3.65;4.54;0.51;35.2;<LOQ
+52;a;Malandreni Argolidas;white;dry;Moschofilero;23/6/2025;12.8;3.49;4.81;0.36;14.2;<LOQ
+52;b;Malandreni Argolidas;white;dry;Moschofilero;23/6/2025;12.5;3.57;4.72;0.44;13.22;<LOQ
+53;a;Malandreni Argolidas;rose;dry;Unknown;23/6/2025;12.7;3.37;4.57;0.38;9.87;<LOQ
+53;b;Malandreni Argolidas;rose;dry;Unknown;23/6/2025;12.2;3.45;4.87;0.47;10.57;<LOQ
+54;a;Malandreni Argolidas;white;dry;Malagouzia;23/6/2025;12.9;3.58;4.54;0.58;11.5;<LOQ
+54;b;Malandreni Argolidas;white;dry;Roditis;23/6/2025;12;3.36;4.36;0.48;12;<LOQ
+55;a;Peristeri;red;semi- sweet;Unknown;23/6/2025;11;3.61;5.7;0.37;31.16;<LOQ
+55;b;Peristeri;red;semi- sweet;Unknown;23/6/2025;10.7;3.54;5.87;0.47;33.1;<LOQ
+56;a;Peristeri;white;semi- sweet;Unknown;23/6/2025;11.2;3.6;5;0.25;15.14;<LOQ
+56;b;Peristeri;white;semi- sweet;Unknown;23/6/2025;10.7;3.45;4.78;0.31;17.21;<LOQ
+57;a;Peloponnisos;white;dry;Roditis. Sauvignon Blanc;23/6/2025;11.9;3.47;5.9;0.35;15.14;<LOQ
+57;b;Peloponnisos;white;dry;Roditis. Sauvignon Blanc;23/6/2025;11.4;3.37;5.45;0.41;17.21;<LOQ
+58;a;Greece;red;semi- sweet;Unknown;23/6/2025;11.4;3.69;5.19;0.43;57.61;<LOQ
+58;b;Greece;red;semi- sweet;Unknown;23/6/2025;1.9;3.55;5.22;0.36;62.21;<LOQ
+59;a;Athens;white;dry;Unknown;23/6/2025;11.5;3.61;4.44;0.37;16.38;<LOQ
+59;b;Athens;white;dry;Unknown;23/6/2025;10.9;3.45;4.61;0.47;19.21;<LOQ
+60;a;Athens;rose;semi-sweet;Unknown;23/6/2025;12.2;4.09;4.6;0.36;39.17;<LOQ
+60;b;Athens;rose;semi-sweet;Unknown;23/6/2025;12.5;3.87;4.71;0.45;44.21;<LOQ
+61;a;Nemea;red;dry;Pinot noir;7/10/2025;14.7;3.67;5.07;0.57;62.51;<LOQ
+61;b;Nemea;red;dry;Pinot noir;7/10/2025;14.5;3.7;5.10;0.49;65.98;<LOQ
+62;a;Nemea;red;dry;Agiorgitiko;7/10/2025;14.9;3.87;5.23;0.61;68.98;<LOQ
+62;b;Nemea;red;dry;Agiorgitiko;7/10/2025;14.3;3.91;5.25;0.42;65.8;<LOQ
+63;a;Drama;red;dry;Merlot;7/10/2025;12.7;3.61;5.7;0.49;65.99;0.15
+63;b;Drama;red;dry;Merlot;7/10/2025;13;3.69;5.55;0.39;60.4;ΝΑ
+64;a;Drama;red;dry;Merlot;7/10/2025;12.3;3.62;5.86;0.51;67.74;0.14
+64;b;Drama;red;dry;Merlot;7/10/2025;12.5;3.5;5.76;0.45;65;ΝΑ
+65;a;Boeotia;white;dry;Assyrtiko;7/10/2025;12.7;3.28;5.32;0.43;11.5;<LOQ
+65;b;Boeotia;white;dry;Assyrtiko;7/10/2025;12.5;3.21;5.21;0.4;12;<LOQ
+66;a;Boeotia;white;dry;Sauvignon Blanc;7/10/2025;12.9;3.26;5.34;0.48;11.34;<LOQ
+66;b;Boeotia;white;dry;Sauvignon Blanc;7/10/2025;13;3.21;5.23;0.53;11.5;<LOQ
+67;a;Argolida;white;dry;Roditis;10/9/2025;12.7;3.32;4.52;0.39;12.82;<LOQ
+67;b;Argolida;white;dry;Roditis;10/9/2025;12.5;3.33;4.32;0.32;13.23;<LOQ
+68;a;Argolida;white;dry;Moschofilero;10/9/2025;13.1;3.53;5.13;0.5;11.32;<LOQ
+68;b;Argolida;white;dry;Moschofilero;10/9/2025;13.3;3.29;5.21;0.55;12.5;<LOQ
+69;a;Argolida;red;dry;Agiorgitiko-Merlot;10/9/2025;14.2;4;5.31;0.71;45.66;<LOQ
+69;b;Argolida;red;dry;Agiorgitiko-Merlot;10/9/2025;14;3.87;5.22;0.59;49;<LOQ
+70;a;Argolida;white;dry;Moschofilero;10/9/2025;12.1;3.48;5.92;0.30;12.28;<LOQ
+70;b;Argolida;white;dry;Moschofilero;10/9/2025;11.78;3.45;5.78;0.32;12.12;<LOQ
+71;a;Argolida;white;dry;Roditis;10/9/2025;12.3;3.35;5.22;0.33;13.4;<LOQ
+71;b;Argolida;white;dry;Roditis;10/9/2025;12.5;3.42;5.5;0.39;13.78;<LOQ
+72;a;Argolida;red;dry;Agiorgitiko;10/9/2025;13.6;3.52;6.06;0.57;71.78;<LOQ
+72;b;Argolida;red;dry;Agiorgitiko;10/9/2025;13.5;3.5;5.97;0.5;70;<LOQ
+73;a;Argolida;red;dry;Merlot;10/9/2025;13.4;3.96;5.26;0.55;70.12;<LOQ
+73;b;Argolida;red;dry;Merlot;10/9/2025;13.3;3.97;5.12;0.53;72.1;<LOQ
+74;a;Attiki;white;dry;Roditis-Savvatiano-Ntempina;1/9/2025;11.5;3.48;4.57;0.32;17.48;<LOQ
+74;b;Attiki;white;dry;Roditis-Savvatiano-Ntempina;1/9/2025;11.7;3.52;4.7;0.43;19.21;<LOQ
+75;a;Attiki;red;semi-sweet;Moschato;1/9/2025;11.9;3.75;4.64;0.34;20.5;<LOQ
+75;b;Attiki;red;semi-sweet;Moschato;1/9/2025;12;3.65;4.54;0.42;20.1;<LOQ
+76;a;Attiki;rose;dry;Moschato;1/9/2025;10.1;4.24;3.51;0.39;31.8;<LOQ
+76;b;Attiki;rose;dry;Moschato;1/9/2025;10.3;4.32;3.56;0.45;31.6;<LOQ
+77;a;Attiki;rose;semi- sweet;Moschato Tyrnavou;12/9/2025;11.7;3.90;4.44;0.47;32.43;0.13
+77;b;Attiki;rose;semi- sweet;Moschato Tyrnavou;12/9/2025;11.4;3.95;4.51;0.52;30.3;ΝΑ
+78;a;Attiki;rose;dry;Ntempina-Ksinomavro;12/9/2025;12.2;3.65;4.35;0.36;28.79;<LOQ
+78;b;Attiki;rose;dry;Ntempina-Ksinomavro;12/9/2025;12.5;3.71;4.41;0.42;30.12;<LOQ
+79;a;Attiki;red;semi- sweet;Unknown;12/9/2025;11.8;3.91;4.4;0.48;44.32;0.16
+79;b;Attiki;red;semi- sweet;Unknown;12/9/2025;12.2;3.78;4.23;0.53;47.21;ΝΑ
+80;a;Attiki;white;sweet;Moschato ;12/9/2025;15.3;4.11;3.43;0.47;12.58;0.33
+80;b;Attiki;white;sweet;Moschato;12/9/2025;15.5;4.23;3.51;0.55;12.43;ΝΑ
+81;a;Attiki;rose;sweet;Moschato ;12/9/2025;14.5;3.82;3.9;0.4;10.3;0.19
+81;b;Attiki;rose;sweet;Moschato ;12/9/2025;14.8;3.76;3.78;0.32;11.02;ΝΑ
+82;a;Attiki;red;sweet;Mavrodaphni ;12/9/2025;13.4;2.86;3.43;0.65;87;<LOQ
+82;b;Attiki;red;sweet;Mavrodaphni;12/9/2025;13;3.01;3.98;0.56;86.5;<LOQ
+83;a;Attiki;red;sweet;Unknown;12/9/2025;13.6;3.42;7.37;0.91;40.01;<LOQ
+83;b;Attiki;red;sweet;Unknown;12/9/2025;14.1;3.52;6.98;0.86;47.8;<LOQ
+84;a;Attiki;red;semi- sweet;Unknown;12/9/2025;11.7;3.37;6.33;0.56;45.22;0.90
+84;b;Attiki;red;semi- sweet;Unknown;12/9/2025;12.1;3.41;6.25;0.48;42.17;ΝΑ
+85;a;Attiki;rose;dry;Unknown;12/9/2025;11.6;3.47;5.22;0.22;22.57;<LOQ
+85;b;Attiki;rose;dry;Unknown;12/9/2025;11.9;3.58;5.36;0.19;23.76;<LOQ
+86;a;Attiki;red;dry;Unknown;12/9/2025;10.9;3.66;5.27;0.40;47.82;<LOQ
+86;b;Attiki;red;dry;Unknown;12/9/2025;11;3.76;5.11;0.42;45.76;<LOQ
+87;a;Attiki;red;dry;Unknown;12/9/2025;11.3;3.84;4.72;0.47;47.48;0.19
+87;b;Attiki;red;dry;Unknown;12/9/2025;11;3.89;4.89;0.51;46.76;ΝΑ
+88;a;Attiki;red;dry;Unknown;12/9/2025;12;3.8;5.07;0.49;39.01;<LOQ
+88;b;Attiki;red;dry;Unknown;12/9/2025;12.2;3.78;5.01;0.44;38.1;<LOQ
+89;a;Attiki;white;dry;Unknown;15/9/2025;12.9;3.41;4.71;0.34;13.98;<LOQ
+89;b;Attiki;white;dry;Unknown;15/9/2025;12.5;3.5;4.78;0.39;13.79;<LOQ
