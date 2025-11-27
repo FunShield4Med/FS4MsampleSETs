@@ -1,0 +1,72 @@
+code ;TYPE;Country of Origin;Sampling Date;Storage;Expiration date;Protein;OTA;Trichothecenes Type A;DON;Alternariol Toxins;ZEN;FB Toxins
+PBM1;Plant based sausage; Netherlands;14.10.24;Frozen;09.04.25;Peas;N;N;N;N;N;N
+PBM2;Plant based kebap;Greece;14.10.24;Frozen;14.07.25;Soy/pea;N;N;N;N;N;>LOQ
+PBM3;Plant based turkey;Greece;14.10.24;Refrigerated;06.12.24;Pea/Fava;N;N;N;N;N;>LOQ
+PBM4;Plant based meatballs;Belgium/Portugal/Hellas/Switzerland;14.10.24;Precooked-Frozen;31.08.25;Soy /Wheat;>LOQ;N;N;N;N;N
+PBM5;Plant based burger;Germany;13.11.24;Frozen;25.12.24;wheat/seitan;N;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ
+PBM6;Plant based burger;Greece;15.11.24;Frozen;11.06.25;wheat/soy;N;>LOQ;N;>LOQ;>LOQ;>LOQ
+PBM7;Plant based nuggets;Belgium/Portugal/Hellas/Switzerland;15.11.24;Precooked-Frozen;31.08.25;Soy;N;N;N;N;N;>LOQ
+PBM8;Plant based schnitzel;Netherlands;15.11.24;Precooked-Frozen;21.11.24;Wheat/soy;N;N;N;N;N;N
+PBM9;Plant based nuggets;Greece;15.11.24;Precooked-Frozen;11.06.25;Wheat/soy/peas;N;N;>LOQ;>LOQ;>LOQ;>LOQ
+PBM10;Plant based meatballs;Greece;15.11.24;Frozen;19.11.2025;Soy;N;N;N;N;N;N
+PBM11;Plant based sausage;NA;15.11.24;Refrigerated;NA;Soy;NA;NA;NA;NA;NA;NA
+PBM12;Plant based minced meat;NA;15.11.24;Room temperature;NA;Soy;>LOQ;>LOQ;N;>LOQ;>LOQ;>LOQ
+PBM13;Plant based nuggets;Netherlands;15.11.24;Precooked-Frozen;02.12.24;Soy/Wheat;N;N;N;>LOQ;N;>LOQ
+PBM14;Plant based schnitzel;Belgium/Portugal/Hellas/Switzerland;15.11.24;Precooked-Frozen;31.07.25;Soy;N;N;N;N;N;N
+PBM15;Plant based meatballs;Greece;15.11.24;Frozen;NA;NA;N;N;N;>LOQ;N;>LOQ
+PBM16;Plant based sausage;NA;15.11.24;Refrigerated;NA;NA;N;N;N;N;N;N
+PBM17;Plant based burger;Greece;15.11.24;Frozen;14.05.25;Wheat/soy;N;N;N;>LOQ;N;>LOQ
+PBM18;Plant based burger;Greece;15.11.24;Frozen;14.07.25;Soy/pea;N;N;N;N;N;>LOQ
+PBM19;Plant based gyros;Greece;15.11.24;Frozen;01.04.25;Pea;>LOQ;>LOQ;N;>LOQ;N;>LOQ
+PBM20;Plant based meatballs;Greece;15.11.24;Frozen;01.04.25;Pea/rice;N;>LOQ;N;>LOQ;N;N
+PBM21;Plant based burger; Netherlands;15.11.24;Frozen;09.04.25;Peas/rice;N;>LOQ;N;>LOQ;N;>LOQ
+PBM22;Plant based burger;Belgium/Portugal/Hellas/Switzerland;15.11.24;Frozen;31.08.25;Soy ;N;N;N;N;N;N
+PBM23;Plant based gyros;Germany;13.11.24;Frozen;27.12.24;Wheat/seitan;>LOQ;N;>LOQ;>LOQ;>LOQ;>LOQ
+PBM24;Plant based kebap;NA;15.11.24;Room temperature;NA;NA;>LOQ;>LOQ;N;>LOQ;N;>LOQ
+PBM25;Plant based kebap_2;Greece;15.01_25;Frozen;25.01.26;Soy;N;N;N;N;N;>LOQ
+PBM26;Plant based bacon;Germany;03.12.24;Refrigerated;05.03.25;Wheat/seitan;N;N;>LOQ;>LOQ;N;>LOQ
+PBM27;Plant based hot chili pepper;Germany;03.12.24;Refrigerated;02.06.25;Wheat/seitan;N;N;>LOQ;>LOQ;N;>LOQ
+PBM28;Plant based chorizo snack ;Germany;03.12.24;Refrigerated;06.04.25;Wheat/seitan;N;N;>LOQ;>LOQ;N;>LOQ
+PBM29;Plant chunks chicken style;Germany;03.12.24;Refrigerated;31.01.25;Wheat/seitan;N;N;N;>LOQ;N;>LOQ
+PBM30;Plant based sausages;Germany;03.12.24;Refrigerated;19.12.24;Wheat/seitan;N;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ
+PBM31;Plant based burger;Greece;03.12.24;Frozen;02.07.25;Soy;NA;NA;NA;NA;NA;NA
+PBM32;Plant based sausage;Germany;03.12.24;Refrigerated;12.11.24;Seitan;N;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ
+PBM33;Plant based burger; Netherlands;03.12.24;Frozen;15.11.24;Peas/rice;>LOQ;N;N;>LOQ;N;N
+PBM34;Plant based sausage;Greece;03.12.24;Refrigerated;24.12.24;Tofu/Soy;N;N;>LOQ;>LOQ;>LOQ;N
+PBM35;Plant based meatballs;Greece;03.12.24;Frozen;15.06.25;Pea;N;N;N;N;N;N
+PBM36;Plant based burger_2;Germany;03.12.24;Frozen;06.03.25;Wheat/Seitan;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ
+PBM37;Plant based gyros;Germany;13.11.24;Frozen;27.12.24;wheat/seitan;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ
+PBM38;Plant based sausage;Germany;13.11.25;Refrigerated;03.12.24;wheat/seitan;N;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ
+PBM39;Plant based salami;Greece;13.11.24;Refrigerated;30.12.24;Pea/soy;N;N;N;N;>LOQ;N
+PBM40;Plant based jamon;Germany;13.11.24;Refrigerated;10.02.25;Wheat/seitan;N;>LOQ;N;>LOQ;N;>LOQ
+PBM41;Plant based sausage;Germany;13.11.24;Refrigerated;16.12.24;Wheat/seitan;N;N;>LOQ;>LOQ;>LOQ;>LOQ
+PBM42;Plant based sausage; Netherlands;14.10.24;Frozen;09.04.25;Peas;N;>LOQ;N;>LOQ;>LOQ;N
+PBM43;Plant based bacon_2;Germany;03.12.24;Refrigerated;05.03.25;Wheat/seitan;N;N;N;>LOQ;N;>LOQ
+PBM44;Plant based jamon_2;Germany;13.11.24;Refrigerated;10.02.25;Wheat/seitan;N;>LOQ;N;>LOQ;N;>LOQ
+PBM45;Plant based sausage;Germany;13.11.25;Refrigerated;06.12.24;Wheat/seitan;N;N;N;>LOQ;>LOQ;>LOQ
+PBM46;Plant based sausage_2;Germany;13.11.25;Refrigerated;03.12.24;Wheat/seitan;N;N;>LOQ;>LOQ;>LOQ;>LOQ
+PBM47;Plant based sausages_2;Germany;03.12.24;Refrigerated;19.12.24;Wheat/seitan;N;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ
+PBM48;Plant based sausage;Germany;13.11.25;Refrigerated;17.12.24;Wheat/seitan;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ
+PBM49;Plant based sausage_2;Germany;13.11.24;Refrigerated;16.12.24;Wheat/seitan;N;>LOQ;N;>LOQ;>LOQ;>LOQ
+PBM50;Plant based burger;Greece;03.12.24;Frozen;22.06.25;Pea;N;N;N;N;N;N
+PBM51;Plant based meatballs;Greece;03.12.24;Frozen;29.12.24;Soy;>LOQ;N;N;N;>LOQ;N
+PBM52;Plant based salami;Germany;13.11.24;Refrigerated;06.12.24;Wheat/seitan;N;N;N;>LOQ;N;>LOQ
+PBM53;Plant based sausage_2;Germany;13.11.24;Refrigerated;17.12.24;Wheat/seitan;>LOQ;N;>LOQ;>LOQ;>LOQ;>LOQ
+PBM54;Plant based sausage;Germany;13.11.24;Refrigerated;14.01.25;Soybeans;N;N;N;>LOQ;>LOQ;>LOQ
+PBM55;Plant based snitzel;Greece;15.01_25;Frozen;25.01.26;Soy;>LOQ;N;>LOQ;>LOQ;>LOQ;>LOQ
+PBM56;Plant based nuggets;Greece;15.01_25;Frozen;03.12.25;Soy;N;N;>LOQ;N;N;N
+PBM57;Plant based burger; Netherlands;15.01_25;Frozen;23.08.25;Peas;>LOQ;N;>LOQ;N;>LOQ;>LOQ
+PBM58;Plant based chicken sticks; Netherlands;15.01_25;Frozen;01.07.26;Peas/wheat;N;N;N;N;N;N
+PBM59;Plant based burger; Netherlands;15.01_25;Frozen;NA;Peas;N;N;N;>LOQ;N;N
+PBM60;Plant based mince; Netherlands;15.01_25;Frozen;NA;Peas;N;N;N;>LOQ;N;>LOQ
+PBM61;Plant based chicken balls;Greece/EU;15.01_25;Frozen;15.10.25;Wheat;>LOQ;N;>LOQ;>LOQ;>LOQ;>LOQ
+PBM62;Plant based chicken nuggets;Greece/EU;15.01_25;Frozen;08.10.25;Wheat;N;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ
+PBM63;Plant based chicken sticks;Greece/EU;15.01_25;Frozen;12.10.25;Wheat;N;N;>LOQ;>LOQ;>LOQ;>LOQ
+PBM64;Plant based burger;Greece;15.01_25;Frozen;02.07.25;Soy;N;N;>LOQ;>LOQ;>LOQ;>LOQ
+PBM65;Plant based sausage;Greece;15.01_25;Frozen;21.01.25;Soy;N;>LOQ;N;>LOQ;>LOQ;>LOQ
+PBM66;Plant based burger;Germany;15.01_25;Refrigerated;09.02.25;Soy;N;>LOQ;N;N;>LOQ;>LOQ
+PBM67;Plant based burger;Germany;15.01_25;Refrigerated;09.02.25;Soy;>LOQ;N;N;>LOQ;>LOQ;>LOQ
+PBM68;Plant based salami slices;Italy;15.01_25;Refrigerated;02.02.25;Soy;N;N;N;>LOQ;>LOQ;N
+PBM69;Plant based souvlaki;Greece;15.01_25;Frozen;02.10.25;Wheat/chickpeas;>LOQ;N;N;>LOQ;N;N
+PBM70;Plant based yiros;Greece;15.01_25;Frozen;30.08.25;Peas;>LOQ;>LOQ;>LOQ;>LOQ;>LOQ;N
+;;;;;;;;;;;;
