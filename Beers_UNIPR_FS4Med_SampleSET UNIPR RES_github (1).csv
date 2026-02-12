@@ -1,0 +1,50 @@
+Code ;Product Type;Geographical origin;sampling date;% in alcohol;Pasteurization/Filtration;Hops/cereals;AFB1;AFB2;AFG1;AFG2;AOH;TEN;AME;FB1;FB2;HT-2;T-2;OTA;ZEN;BEA;DON;ENNB;ENNB1;ENNA;ENNA1
+B1;Pilsner;Serres. Greece;14.10.24;4.5;Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B2;IPA;Serres. Greece;14.10.24;6;Unpasteurized. Unfiltered;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B3;Stout Ale;Serres. Greece;14.10.24;6.2;Unpasteurized. Unfiltered;barley ;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B4;Lager;Tinos. Greece;14.10.24;4.5;Organic. Gluten Free. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B5;Naturally hazy;Tinos. Greece;14.10.24;6.2;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B6;Naturally hazy;Tinos. Greece;14.10.24;5;Pasteurized. Filtered;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B7;Ale Honey;Evia. Greece;14.10.24;6.5;Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B8;IPA;Evia. Greece;14.10.24;7;Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B9;Lager;Komotini. Grecce;14.10.24;5;Pasteurized. Filtered;barley ;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B10;Weiss;Komotini. Grecce;14.10.24;5.4;Unfiltered;Barley. wheat;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B11;Alcohol Free Lager;Komotini. Grecce;14.10.24;0.4;Unfiltered;barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B12;Black;Komotini. Grecce;14.10.24;5.5;Unfiltered;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B13;Red Amber Lager;Komotini. Grecce;14.10.24;5.8;Pasteurized. Filtered;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B14;IPA;Larissa. Greece;14.10.24;5.5;Unfiltered. Unpasteurized;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B15;IPA;Creta. Iraklio. Greece;14.10.24;5.5;Unfiltered. Unpasteurized;barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B16;Pilsner;Atalanti Fthiotidas. Greece;14.10.24;5.2;Pasteurized. Filtered;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B17;Alcohol Free Lager;Atalanti Fthiotidas. Greece;14.10.24;0.5;Pasteurized. Filtered;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B18;Alcohol Free Lager;Ritswna. Evia. Greece;14.10.24;<0.5;Pasteurized. Filtered;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B19;Alcohol Free Lager;Belgium;14.10.24;0;Pasteurized. Filtered;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B20;Ale;Ikaria. Greece;14.10.24;5;Unpasteurized;Barley Wheat;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B21;Lager;Thessaloniki. Greece;14.10.24;5;Pasteurized. Filtered;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B22;Lager;Thessaloniki. Greece;21.10.24;5;Pasteurized. Filtered;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B23;Lager;Athens. Greece;21.10.25;5;Pasteurized. Filtered;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B24;Lager;Athens. Greece;21.10.24;5;Pasteurized. Filtered;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B25;Lager;Athens. Greece;21.10.24;5;Pasteurized. Filtered;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B26;Lager;Athens. Greece;21.10.24;5;Pasteurized. Filtered;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B27;Pilsener;Athens. Greece;21.10.24;5;Pasteurized. Filtered;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B28;Pilsen;Volos. Greece;23.10.24;5;Unfiltered. Unpasteurized;Barely;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B29;Strong Weiss;Volos. Greece;23.10.24;8;Unfiltered. Unpasteurized;Barley. wheat;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B30;Ale;Volos. Greece;23.10.24;6;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B31;Weiss;Volos. Greece;23.10.24;5.5;Unfiltered. Unpasteurized;Barley. wheat;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B32;Dunkel Weiss;Volos. Greece;23.10.24;5.8;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B33;Strong Ale;Volos. Greece;23.10.24;7.4;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B34;Smoked;Volos. Greece;23.10.24;5;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B35;Lager;Volos. Greece;23.10.24;4.8;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B36;Hazy IPA ;Chios. Greece;26.02.25;6.5;Unfiltered. Unpasteurized;Barley. wheat. oat;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B37;Spoiled;Athens. Greece;26.02.25;6.5;Unfiltered. Unpasteurized;Barley. wheat. oat;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B38;Saison Belgium;Athens. Greece;05.11.24;3.7;Unfiltered. Unpasteurized;Barley wheat;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B39;Saison Belgium;Athens. Greece;05.11.24;3.7;Unfiltered. Unpasteurized;Barley wheat;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B40;Ale;Athens. Greece;05.11.24;5.3;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B41;Ale;Athens. Greece;05.11.24;5.3;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B42;Pale Ale;Athens. Greece;05.11.24;4.7;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B43;Pale Ale;Athens. Greece;05.11.24;4.7;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B44;Pale Ale;Athens. Greece;05.11.24;4.7;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B45;With mango puree;Athens. Greece;05.11.24;5.3;Unfiltered. Unpasteurized;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B46; Lager;Ritswna. Evia. Greece;14.10.24;5;Pasteurized. Filtered;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B47;Alcohol Free Lager Lemon;Ritswna. Evia. Greece;14.10.24;<0.5;Pasteurized. Filtered;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B48;Pilsener Gluten free;Belgium;07.11.24;5;Pasteurized. Filtered;Barley rice;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
+B49;Lager;Athens. Greece;10.11.24;5;Pasteurized. Filtered;Barley;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD;<LOD
