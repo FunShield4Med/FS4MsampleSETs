@@ -1,0 +1,33 @@
+Coding;Falcon CODE;Market code ;Milk type;Other characteristics;Product;Sampling Date;Results (detected toxins)
+1;M8;1223831;Roasted almond;No sugar no gluten;Plant Based milk;31/10/2023;AFB1+TEN+AME+ZEN+BEA+ENNB+ENNB1+ENNA1
+2;M7;1479343;Hazelnut Oat;Nothing special;Plant Based milk;31/10/2023;TEN+AME+HT-2+BEA+DON+ENNB+ENNB1+ENNA+ENNA1
+3;M4;1397380;Almond;No gluten;Plant Based milk;31/10/2023;AOH+TEN+AME+HT-2+ZEN+BEA+ENNB+ENNB1
+4;M1;1438990;Almond;No gluten  no lactose;Plant Based milk;31/10/2023;AME+BEA+DON+ENNB
+5;M6;1479354;Oat;No sugar;Plant Based milk;31/10/2023;AOH+TEN+AME+FB1+HT-2+ZEN+BEA+DON+ENNB+ENNB1+ENNA+ENNA1
+6;M3;1433448;Oat ;Nothing special;Plant Based milk;31/10/2023;AOH+TEN+AME+HT-2+OTA+ZEN+BEA+ENNB+ENNB1+ENNA
+7;M11;1507051;Oat;No sugar;Plant Based milk;31/10/2023;TEN+AME+FB1+HT-2+T-2+ZEN+BEA+DON+ENNB+ENNB1+ENNA+ENNA1
+8;M10;1283569;Oat;Nothing special;Plant Based milk;31/10/2023;AFB1+AME+ZEN+BEA+ENNB+ENNB1+ENNA
+9;M17;1582186;Oat;No sugar;Plant Based milk;31/10/2023;HT-2+T-2+ZEN+BEA+DON+ENNB+ENNB1+ENNA+ENNA1
+10;M2;1558090;Oat ;No sugar;Plant Based milk;31/10/2023;AOH+TEN+AME+HT-2+OTA+ZEN+BEA+ENNB+ENNB1+ENNA+ENNA1
+11;M15;1582185;Almond;No lactose;Plant Based milk;31/10/2023;AME+BEA+ENNB+ENNB1
+12;M5;1397376;Almond;No gluten;Plant Based milk;31/10/2023;AFB1+AOH+TEN+AME+ZEN+BEA+ENNB+ENNB1
+13;M16;1582184;Almond;No lactose no sugar;Plant Based milk;31/10/2023;AME+BEA+ENNB+ENNB1+ENNA
+14;M14;1504286;Almond;No gluten;Plant Based milk;31/10/2023;BEA+ENNB
+15;M9;1088089;Almond;No gluten;Plant Based milk;31/10/2023;AFB1+AFB2+AME+BEA+ENNB+ENNB1
+16;M13;1464628;Soy;No gluten no sugar;Plant Based milk;31/10/2023;Not available
+17;M12;3482098;Soy;No gluten;Plant Based milk;31/10/2023;Not available
+18;M33;1504286;Almond;No gluten low in sugar;Plant Based milk;15/7/2024;AME+HT-2+BEA+ENNB+ENNB1
+19;M26;1479343;Hazelnut Oat;Nothing special;Plant Based milk;15/7/2024;AOH+TEN+AME+HT-2+ZEN+BEA+DON+ENNB+ENNB1+ENNA+ENNA1
+20;M22;1397380;Almond;No gluten  no sugar no lactose;Plant Based milk;15/7/2024;AOH+TEN+AME+HT-2+ZEN+BEA+ENNB+ENNB1+ENNA1
+21;M31;1438990;Almond;No gluten, no lactose;Plant Based milk;15/7/2024;AME+BEA+ENNB
+22;M20;1479354;Oat;No lactose;Plant Based milk;15/7/2024;TEN+AME+HT-2+OTA+ZEN+BEA+DON+ENNB+ENNB1+ENNA+ENNA1
+23;M30;1507051;Oat;No sugar no lactose;Plant Based milk;15/7/2024;AOH+AME+HT-2+BEA+ENNB+ENNB1+ENNA+ENNA1
+24;M19;1283569;Oat and Almond;No lactose no sugar;Plant Based milk;15/7/2024;AFB1+AME+HT-2+OTA+ZEN+BEA+ENNB+ENNB1
+25;M28;1582186;Oat;No sugar;Plant Based milk;15/7/2024;AME+HT-2+T-2+OTA+ZEN+BEA+DON+ENNB+ENNB1+ENNA+ENNA1
+26;M23;1582185;Almond;No lactose;Plant Based milk;15/7/2024;AFB1+AME+BEA+ENNB+ENNB1
+27;M25;1397376;Almond;No gluten;Plant Based milk;15/7/2024;AOH+TEN+AME+HT-2+OTA+ZEN+BEA+ENNB+ENNB1+ENNA
+28;M27;1582184;Almond;No lactose, no sugar;Plant Based milk;15/7/2024;AFB1+AFG1+AME+OTA+BEA+ENNB+ENNB1+ENNA
+29;M29;1504286;Almond;No gluten;Plant Based milk;15/7/2024;AME+HT-2+BEA+ENNB+ENNB1+ENNA+ENNA1
+30;M24;1464628;Soy;No gluten no sugar;Plant Based milk;15/7/2024;Not available
+31;M21;3482098;Soy;No gluten;Plant Based milk;15/7/2024;Not available
+32;M32;1223831;Roasted almond;No sugar no gluten;Plant Based milk;15/7/2024;AFB1+AFG1+TEN+AME+HT-2+BEA+ENNB+ENNB1
