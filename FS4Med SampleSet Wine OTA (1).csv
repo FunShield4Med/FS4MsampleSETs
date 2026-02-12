@@ -1,0 +1,121 @@
+Variety;Area;Vineyard;Vintage;Type;wine code;replicate;v/v %;pH;Total Acidity (tart. Ac. mg/L);Volatile acidity (Acetic Acid mg/L);Total Phenolic Index;OTA consentration;mean tem;max temp;min temp;rain
+Syrah;Thiva;Muses Valley;2022;Red;27;a;11.9;3.41;6.77;0.77;44.19;0.247;20.6;35.04;14.4;23.44
+Syrah;Thiva;Muses Valley;2022;Red;27;b;12;3.42;5.23;0.73;43;0.1994;20.6;35.04;14.4;23.44
+Syrah;Thiva;Muses Valley;2022;Red;27;c;12.1;3.48;5.54;0.71;44.98;0.2768;20.6;35.04;14.4;23.44
+Syrah;Florina;Florina;2021;Red;42;a;14.3;3.62;5.07;1.07;43.79;0.623;23.8;37.18;7.54;16.2
+Syrah;Florina;Florina;2021;Red;42;b;14.2;3.67;6.1;1.09;44;0.57;23.8;37.18;7.54;16.2
+Syrah;Florina;Florina;2021;Red;42;c;14.5;3.56;6.02;1.07;42.7;0.58;23.8;37.18;7.54;16.2
+Syrah;Viotia;Thiva;2023;Red;48;a;14.5;3.54;5.56;1.8;56.58;1.25;24.16;38.34;13.76;49.44
+Syrah;Viotia;Thiva;2023;Red;48;b;14.6;3.5;5.59;1.9;55.45;1.13;24.16;38.34;13.76;49.44
+Syrah;Viotia;Thiva;2023;Red;48;c;14.3;3.52;5.49;1.7;58.56;1.1;24.16;38.34;13.76;49.44
+Syrah;Viotia;Thiva;2020;Red;51;a;13.3;3.52;6.1;0.26;48.74;1.908;25.04;38.5;16.4;13.44
+Syrah;Viotia;Thiva;2020;Red;51;b;13;3.5;6;0.27;44.21;1.909;25.04;38.5;16.4;13.44
+Syrah;Viotia;Thiva;2020;Red;51;c;13.4;3.51;6.1;0.25;39.82;1.754;25.04;38.5;16.4;13.44
+Syrah;Érakleio;Mires;2021;Red;66;a;12.5;3.51;5.52;0.47;52.03;0.1635;23.88;37.12;12.22;4.68
+Syrah;Érakleio;Mires;2021;Red;66;b;12.6;3.49;5.52;0.43;50.11;0.178;23.88;37.12;12.22;4.68
+Syrah;Érakleio;Mires;2021;Red;66;c;12.7;3.57;5.28;0.41;55.42;0.172;23.88;37.12;12.22;4.68
+Xinomavro;Chalkidiki;Chalkidiki;2021;Red;5;a;13.1;3.21;6.87;0.78;33.87;1.342;23.5;33.92;15.36;17.78
+Xinomavro;Chalkidiki;Chalkidiki;2021;Red;5;b;12.9;3.32;6.72;0.7;32;1.439;23.5;33.92;15.36;17.78
+Xinomavro;Chalkidiki;Chalkidiki;2021;Red;5;c;13;3.28;6.76;0.65;33.89;1.405;23.5;33.92;15.36;17.78
+Xinomavro;Larissa;Rapsani;2020;Red;12;a;12.3;3.1;7.72;0.43;26.17;2.193;23.9;37.06;13.4;24.56
+Xinomavro;Larissa;Rapsani;2020;Red;12;b;12.3;3.14;7.69;0.47;30;2.027;23.9;37.06;13.4;24.56
+Xinomavro;Larissa;Rapsani;2020;Red;12;c;12.2;3.15;7.7;0.5;31;2.013;23.9;37.06;13.4;24.56
+Xinomavro;Florina;Goyni;2020;Red;21;a;13;3.37;6.46;0.5;30.81;0.55;19.76;34.2;8.56;52.6
+Xinomavro;Florina;Goyni;2020;Red;21;b;13.1;3.35;6.51;0.51;30.99;0.559;19.76;34.2;8.56;52.6
+Xinomavro;Florina;Goyni;2020;Red;21;c;13.2;3.32;6.48;0.48;30.1;0.53;19.76;34.2;8.56;52.6
+Xinomavro;Florina;Skatzoxiros;2020;Red;22;a;12.6;3.34;6.92;0.53;27.91;0.574;22.3;35.58;10.48;52.6
+Xinomavro;Florina;Skatzoxiros;2020;Red;22;b;13;3.39;6.99;0.56;27.99;0.652;22.3;35.58;10.48;52.6
+Xinomavro;Florina;Skatzoxiros;2020;Red;22;c;12.9;3.35;6.9;0.51;28.18;0.664;22.3;35.58;10.48;52.6
+Xinomavro;Drama;Drama;2021;Red;24;a;14;3.36;5.61;0.35;34.71;0.589;19.76;34.2;8.56;32.14
+Xinomavro;Drama;Drama;2021;Red;24;b;14.2;3.32;5.62;0.35;34.77;0.567;19.76;34.2;8.56;32.14
+Xinomavro;Drama;Drama;2021;Red;24;c;14;3.34;5.61;0.36;34.89;0.533;19.76;34.2;8.56;32.14
+Xinomavro;Karditsa;Karditsa;2021;Red;32;a;12.6;3.39;6.24;0.54;28.43;0.284;19.76;34.2;8.56;24.88
+Xinomavro;Karditsa;Karditsa;2021;Red;32;b;12.7;3.36;6.28;0.58;29;0.2631;19.76;34.2;8.56;24.88
+Xinomavro;Karditsa;Karditsa;2021;Red;32;c;12.3;3.4;6.29;0.56;29.42;0.316;19.76;34.2;8.56;24.88
+Xinomavro;Florina;Hedgehog;2021;Red;45;a;13.7;3.36;7.91;0.53;39.72;0.94;22.3;35.58;10.48;16.2
+Xinomavro;Florina;Hedgehog;2021;Red;45;b;13.6;3.35;7;0.52;37;0.86;22.3;35.58;10.48;16.2
+Xinomavro;Florina;Hedgehog;2021;Red;45;c;13.5;3.4;7.94;0.51;35;0.99;22.3;35.58;10.48;16.2
+Sauvignon blanc;Florina;Amydeo;2022;white;25;a;13;3.39;5.93;0.31;7.8;1.147;22.1;34.775;12.65;60.3
+Sauvignon blanc;Florina;Amydeo;2022;white;25;b;13.4;3.42;5.9;0.3;7.9;1.252;22.1;34.775;12.65;60.3
+Sauvignon blanc;Florina;Amydeo;2022;white;25;c;13.2;3.42;5.91;0.34;7.7;1.165;22.1;34.775;12.65;60.3
+Sauvignon blanc;Elassona;Elassona;2023;white;28;a;11.4;3.59;4.89;0.4;7.08;3.505;22.9;35.02;12.54;69.66
+Sauvignon blanc;Elassona;Elassona;2023;white;28;b;11.6;3.58;4.86;0.41;7.05;3.357;22.9;35.02;12.54;69.66
+Sauvignon blanc;Elassona;Elassona;2023;white;28;c;11.5;3.58;4.87;0.38;7.03;2.95;22.9;35.02;12.54;69.66
+Sauvignon blanc;Florina;Florina;2020;white;38;a;13.1;3.37;6.12;0.36;9.18;2.391;20.58;34.78;9.86;55.92
+Sauvignon blanc;Florina;Florina;2020;white;38;b;13;3.35;6.1;0.4;9.1;2.059;20.58;34.78;9.86;55.92
+Sauvignon blanc;Florina;Florina;2020;white;38;c;12.7;3.37;6.03;0.33;9.67;2.314;20.58;34.78;9.86;55.92
+Sauvignon blanc;Larissa;Elassona;2022;white;41;a;11.6;3.61;5.91;1;9.48;5.539;24.16;38.34;13.76;66.38
+Sauvignon blanc;Larissa;Elassona;2022;white;41;b;11.2;3.67;5.98;0.9;9;5.19;24.16;38.34;13.76;66.38
+Sauvignon blanc;Larissa;Elassona;2022;white;41;c;11.5;3.62;6;1.1;9.9;5.011;24.16;38.34;13.76;66.38
+Sauvignon blanc;Viotia;Thiva;2022;white;50;a;12.6;3.41;5.52;0.3;9.2;7.82;25.04;37.18;16.4;23.44
+Sauvignon blanc;Viotia;Thiva;2022;white;50;b;12.7;3.39;5.3;0;9.87;7.62;25.04;37.18;16.4;23.44
+Sauvignon blanc;Viotia;Thiva;2022;white;50;c;12.3;3.4;5.29;0.2;9;7.32;25.04;37.18;16.4;23.44
+Sauvignon Blanc;Viotia;Thiva;2022;white;53;a;12.9;3.42;4.56;0.56;9.99;0.37;24.16;38.34;13.76;23.44
+Sauvignon Blanc;Viotia;Thiva;2022;white;53;b;12.5;3.43;4.49;0.54;9;0.377;24.16;38.34;13.76;23.44
+Sauvignon Blanc;Viotia;Thiva;2022;white;53;c;13;3.49;4.6;0.5;9.32;0.27;24.16;38.34;13.76;23.44
+Sauvignon blanc;Achaia;Kalabrita;2023;white;61;a;12.6;3.41;5.69;0.34;6.7;0.66;20.44;34.34;7.78;29.68
+Sauvignon blanc;Achaia;Kalabrita;2023;white;61;b;12.3;3.4;5.7;0.35;7;0.64;20.44;34.34;7.78;29.68
+Sauvignon blanc;Achaia;Kalabrita;2023;white;61;c;12.2;3.45;5.55;0.37;7.9;0.7;20.44;34.34;7.78;29.68
+Sauvignon blanc;Achaia;Kalabrita;2022;white;62;a;12.7;3.42;5.64;0.35;7.1;0.73;20.64;32.78;10.74;72.4
+Sauvignon blanc;Achaia;Kalabrita;2022;white;62;b;12.2;3.45;5.68;0.36;7.8;0.68;20.64;32.78;10.74;72.4
+Sauvignon blanc;Achaia;Kalabrita;2022;white;62;c;12.4;3.4;5.8;0.32;7.9;0.838;20.64;32.78;10.74;72.4
+Sauvignon blanc;Érakleio;Mires;2023;white;65;a;13.2;3.32;5.48;0.34;7.45;0.1528;22.96;36.92;11.42;4.68
+Sauvignon blanc;Érakleio;Mires;2023;white;65;b;13.2;3.4;5.45;0.32;7.34;0.1449;22.96;36.92;11.42;4.68
+Sauvignon blanc;Érakleio;Mires;2023;white;65;c;13.6;3.39;5.42;0.33;7.42;0.153;22.96;36.92;11.42;4.68
+Sauvignon blanc;Florina;Amydeo;2023;white;70;a;13.8;3.44;6.01;0.38;6.89;0.1479;19.86;32.76;9.34;66.52
+Sauvignon blanc;Florina;Amydeo;2023;white;70;b;14;3.46;6.04;0.37;6.44;0.156;19.86;32.76;9.34;66.52
+Sauvignon blanc;Florina;Amydeo;2023;white;70;c;13.9;3.45;5.67;0.38;6.76;0.1433;19.86;32.76;9.34;66.52
+Asyrtiko;Larissa;Elassona;2021;white;14;a;13.4;3.28;5.68;0.26;11.8;0.602;23.9;38.54;11.66;34.96
+Asyrtiko;Larissa;Elassona;2021;white;14;b;13.4;3.27;5.64;0.22;11.4;0.588;23.9;38.54;11.66;34.96
+Asyrtiko;Larissa;Elassona;2021;white;14;c;13.6;3.28;5.69;0.24;11.5;0.687;23.9;38.54;11.66;34.96
+Asyrtiko;Larissa;Elassona;2022;white;15;a;13.3;3.3;5.62;0.27;12.7;0.68;22.96;36.92;11.42;66.38
+Asyrtiko;Larissa;Elassona;2022;white;15;b;13.5;3.31;5.61;0.23;11.8;0.831;22.96;36.92;11.42;66.38
+Asyrtiko;Larissa;Elassona;2022;white;15;c;13.4;3.26;5.62;0.22;12.5;0.545;22.96;36.92;11.42;66.38
+Asyrtiko;Attiki;Spata;2020;white;16;a;11.6;2.86;7.6;0.42;13.89;0.602;24.575;33.125;18.875;15.33
+Asyrtiko;Attiki;Spata;2020;white;16;b;11.9;2.88;7.54;0.45;13.16;0.589;24.575;33.125;18.875;15.34
+Asyrtiko;Attiki;Spata;2020;white;16;c;11.8;2.87;7.59;0.43;13.06;0.576;24.575;33.125;18.875;15.35
+Asyrtiko;Nemea;Koutsi;2020;white;17;a;12.3;3.07;7.6;0.64;10.39;0.57;22.46;37.12;9;30.8
+Asyrtiko;Nemea;Koutsi;2020;white;17;b;12.1;3.09;7.54;0.66;10.89;0.562;22.46;37.12;9;30.8
+Asyrtiko;Nemea;Koutsi;2020;white;17;c;12.2;3.05;7.6;0.65;11.07;0.582;22.46;37.12;9;30.8
+Asyrtiko;Santorini;Santorini;2020;white;18;a;14.3;3.06;6.17;0.45;11.48;0.975;23.82;33.24;18.5;0.44
+Asyrtiko;Santorini;Santorini;2020;white;18;b;14.5;3.08;6.1;0.44;12;0.882;23.82;33.24;18.5;0.44
+Asyrtiko;Santorini;Santorini;2020;white;18;c;14;3.01;6.19;0.45;10.76;0.887;23.82;33.24;18.5;0.44
+Asyrtiko;Karditsa;Karditsa;2020;white;19;a;14.6;3.27;5.48;0.34;9.55;0.982;25.35;38.125;19.6;64.36
+Asyrtiko;Karditsa;Karditsa;2020;white;19;b;14.6;3.21;5.7;0.33;9.98;1.104;25.35;38.125;19.6;64.36
+Asyrtiko;Karditsa;Karditsa;2020;white;19;c;14.4;3.21;5.78;0.36;9.76;1.005;25.35;38.125;19.6;64.36
+Asyrtiko;Drama;Drama;2020;white;20;a;15.1;3.19;5.53;0.43;12.77;0.94;25.05;35.325;14.7;118.76
+Asyrtiko;Drama;Drama;2020;white;20;b;15;3.18;5.52;0.4;12.67;0.993;25.05;35.325;14.7;118.76
+Asyrtiko;Drama;Drama;2020;white;20;c;15.2;3.17;5.49;0.42;12.59;0.877;25.05;35.325;14.7;118.76
+Asyrtiko;Larissa;Elassona;2021;white;30;a;12.9;3.18;5.73;0.19;10.256;0.4;24.25;38.225;14.675;34.98
+Asyrtiko;Larissa;Elassona;2021;white;30;b;12.7;3.1;5.8;0.2;11.14;0.19;24.25;38.225;14.675;34.98
+Asyrtiko;Larissa;Elassona;2021;white;30;c;13.1;3.2;5.76;0.17;11.432;0.378;24.25;38.225;14.675;34.98
+Asyrtiko;Evia;Eretria;2022;white;34;a;13.1;2.86;7.55;0.29;14.33;0.18;22.3;35.58;10.48;15.7
+Asyrtiko;Evia;Eretria;2022;white;34;b;13.4;2.87;7.43;0.25;14;0.16;22.3;35.58;10.48;15.7
+Asyrtiko;Evia;Eretria;2022;white;34;c;12.9;2.83;7.48;0.3;13.56;0.202;22.3;35.58;10.48;15.7
+Asyrtiko;Lipsi;Lipsi;2020;white;35;a;13;3.32;5.54;0.2;12.1;0.63;24.55;32.125;19.225;8.125
+Asyrtiko;Lipsi;Lipsi;2020;white;35;b;13.1;3.34;5.52;0.15;12.7;0.6;24.55;32.125;19.225;8.125
+Asyrtiko;Lipsi;Lipsi;2020;white;35;c;13.2;3.31;5.51;0.19;12.8;0.67;24.55;32.125;19.225;8.125
+Asyrtiko;Lakonia;Monemvasia;2021;white;36;a;13.5;3.14;5.53;0.24;15.76;0.199;23.9;38.68;11.58;38.25
+Asyrtiko;Lakonia;Monemvasia;2021;white;36;b;13.2;3.15;5.52;0.23;16;0.21;23.9;38.68;11.58;38.25
+Asyrtiko;Lakonia;Monemvasia;2021;white;36;c;13.6;3.11;5.57;0.25;16.2;0.213;23.9;38.68;11.58;38.25
+Asyrtiko;Lakonia;Monemvasia;2021;white;40;a;13;3.22;5.2;0.25;12.5;0.192;23.3;36.48;12.3;38.25
+Asyrtiko;Lakonia;Monemvasia;2021;white;40;b;13.2;3.28;5.24;0.28;12.8;0.175;23.3;36.48;12.3;38.25
+Asyrtiko;Lakonia;Monemvasia;2021;white;40;c;13.2;3.27;5.29;0.26;12.1;0.186;23.3;36.48;12.3;38.25
+Asyrtiko;Crete;Iraklio ;2022;white;43;a;11.6;3.25;6.31;0.45;15.56;2.028;24.425;33.325;17.325;39.125
+Asyrtiko;Crete;Iraklio ;2022;white;43;b;11.5;3.29;6.38;0.46;16;2.25;24.425;33.325;17.325;39.125
+Asyrtiko;Crete;Iraklio ;2022;white;43;c;11.4;3.19;6;0.5;15.7;2.15;24.425;33.325;17.325;39.125
+Asyrtiko;Lakonia;Monemvasia;2021;white;47;a;14.5;2.6;6.97;1.1;19.56;0.76;26.35;38.125;19.6;38.25
+Asyrtiko;Lakonia;Monemvasia;2021;white;47;b;14.3;2.63;7;1.1;20.34;0.72;26.35;38.125;19.6;38.25
+Asyrtiko;Lakonia;Monemvasia;2021;white;47;c;14.1;2.66;6.87;1.3;21.23;0.78;26.35;38.125;19.6;38.25
+Asyrtiko;Viotia;Muses Valley;2022;white;49;a;12;3.28;6.11;2;10.59;3.11;26.35;38.125;19.6;32.025
+Asyrtiko;Viotia;Muses Valley;2022;white;49;b;12.2;3.25;6;2;11;1.98;26.35;38.125;19.6;32.025
+Asyrtiko;Viotia;Muses Valley;2022;white;49;c;12.3;3.26;6.04;2.1;11.1;2.48;26.35;38.125;19.6;32.025
+Asyrtiko;Attiki;Koropi;2023;white;58;a;13;3.16;5.49;0.28;10.1;0.35;24.05;35.725;15.65;22.275
+Asyrtiko;Attiki;Koropi;2023;white;58;b;13;3.18;5.5;0.3;11.5;0.3;24.05;35.725;15.65;22.275
+Asyrtiko;Attiki;Koropi;2023;white;58;c;13.2;3.19;5.54;0.31;11.91;0.29;24.05;35.725;15.65;22.275
+Asyrtiko;Tinos;Tinos;2023;white;59;a;12.1;3.2;6.09;0.28;14;0.189;23.76;35.78;14.63;19.95
+Asyrtiko;Tinos;Tinos;2023;white;59;b;12;3.23;6.1;0.3;14.8;0.168;23.77;35.79;14.64;19.95
+Asyrtiko;Tinos;Tinos;2023;white;59;c;12.3;3.21;6.11;0.25;14.2;0.23;23.78;35.80;14.65;19.95
+Asyrtiko;Achaia;Kalabrita;2022;white;60;a;12;3.23;6.1;0.45;10.2;0.48;20.64;35.81;10.74;72.4
+Asyrtiko;Achaia;Kalabrita;2022;white;60;b;12;3.26;6.12;0.46;10;0.66;20.64;32.78;10.74;72.4
+Asyrtiko;Achaia;Kalabrita;2022;white;60;c;12.3;3.28;6.18;0.4;10.3;0.61;20.64;32.78;10.74;72.4
