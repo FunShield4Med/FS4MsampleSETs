@@ -1,0 +1,88 @@
+Sample Number;Product;Proccesed by Heat;Type;Proccessed by salt;Country of Origin;Market area ;Sampling Date;AFG2 (ppb);AFG1 (ppb);AFB2 (ppb);AFB1 (ppb);OTA (ppb)
+1;Peanut ;Roasted ;Pealed;No Salt;Argentina;Omonoia;September 2023;<l.d;<l.d;<l.d;positive;<l.d
+2;Peanut ;Roasted ;Pealed;Salted;Argentina;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+3;Pistachios ;Roasted ;In- shell;No Salt;Greece;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+4;Pistachios ;Roasted ;In- shell;Salted;Greece;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+5;Peanut ;Roasted ;Unpealed;Salted;Argentina;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+6;Pistachios ;Roasted ;In- shell;Salted;Greece;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+7;Arachis ;Roasted ;In- shell;No Salt;Egypt;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+8;Peanut;Roasted ;Pealed;Salted;Egypt;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+9;Peanut ;Roasted ;Unpealed;Salted;Egypt;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+10;Peanut ;Roasted ;Unpealed;No Salt;Egypt;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+11;Pistachios ;Roasted ;In- shell;Salted;Greece;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+12;Peanut ;Roasted ;Pealed;Salted;Argentina;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+13;Peanut ;Roasted ;Pealed;No Salt;Argentina;Omonoia;September 2023;<l.d;<l.d;<l.d;positive;<l.d
+14;Pistachios ;Roasted ;In- shell;Salted;Greece;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+15;Pistachios ;Roasted ;In- shell;No Salt;Greece;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+16;Arachis ;Roasted ;In- shell;Salted;Egypt;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+17;Arachis ;Roasted ;In- shell;No Salt;Egypt;Omonoia;September 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+18;Pistachios ;Roasted ;In- shell;Salted;Greece;Omonoia;Noveber 2023;<l.d;<l.d;<l.d;<l.d;positive
+19;Pistachios (nutmeat);Raw;Unpealed;No Salt;Greece;Omonoia;Noveber 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+20;Pistachios;Roasted ;In- shell;No Salt;Greece;Omonoia;Noveber 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+21;Pistachios ;Raw;In- shell;No Salt;Greece;Omonoia;Noveber 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+22;Pistachios (nutmeat);Roasted ;Unpealed;Salted;Greece;Omonoia;Noveber 2023;<l.d;<l.d;positive;positive;<l.d
+23;Peanut;Roasted ;Unpealed;Salted;Greece;Omonoia;Noveber 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+24;Peanut;Roasted ;Unpealed;Salted;Greece;Omonoia;Noveber 2023;<l.d;<l.d;positive;positive;<l.d
+25;Peanut;Roasted ;Unpealed;Salted;Argentina;Omonoia;Noveber 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+26;Peanut;Roasted ;Unpealed;Salted;Brazil;Omonoia;Noveber 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+27;Peanut;Raw;Unpealed;No Salt;Argentina;Omonoia;Noveber 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+28;Peanut;Raw;Unpealed;No Salt;Greece;Omonoia;Noveber 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+29;Arachis (Peanut);Roasted ;In- shell;No Salt;China;Likovrysi;December 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+30;Arachis (Peanut);Roasted ;In- shell;No Salt;Argentina;Likovrysi;December 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+31;Peanut ;Raw;Unpealed;No Salt;Argentina;Likovrysi;December 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+32;Peanut;Raw;Unpealed;No Salt;China;Likovrysi;December 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+33;Peanut ;Raw;Unpealed;No Salt;Argentina;Likovrysi;December 2023;<l.d;<l.d;<l.d;<l.d;<l.d
+34;Pistachios ;Roasted ;In- shell;Salted;USA;Varvakeios;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+35;Arachis (Peanut);Roasted ;In- shell;Salted;Egypt;Varvakeios;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+36;Arachis (Peanut);Roasted ;In- shell;no salt;Egypt;Varvakeios;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+37;Peanut ;Roasted ;Unpealed;Salted;China;Varvakeios;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+38;Arachis (Peanut);Roasted ;In- shell;Salted;China;Varvakeios;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+39;Arachis (Peanut);Roasted ;In- shell;no salt;China;Varvakeios;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+40;Peanut ;Roasted ;Unpealed;Salted;Iran;Omonoia;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+41;Pistachios;Raw;In- shell;no salt;Turkey;Omonoia;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+42;Arachis (Peanut);Roasted ;In- shell;Salted;egypt;Omonoia;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+43;Peanut ;Roasted ;Unpealed;Salted;Iran;Marousi;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+44;Peanut ;Raw;Unpealed;No Salt;China;Marousi;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+45;Peanut ;Raw;Unpealed;No Salt;Argentina;Marousi;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+46;Peanut ;Raw;Pealed;No Salt;Asia;Marousi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+47;Peanut ;Raw;Unpealed;No Salt;Asia;Marousi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+48;Pistachios;Raw;In- shell;no salt;Greece, PDO Aigina;Marousi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+49;Pistachios;Raw;In- shell;no salt;Turkey;Marousi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+50;Peanut ;Roasted ;Unpealed;Salted;Egypt;Marousi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+51;Pistachios;Raw;In- shell;No Salt;Egypt;Marousi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+52;Pistachios;Raw;no shell;No Salt;Egypt;Marousi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+53;Peanut ;Roasted ;Unpealed;Salted;Iran;Marousi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+54;Cascius peanut;Raw;Pealed ;No Salt;Vietnam;Likovrysi;February 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+55;Peanut ;Raw;Pealed;No Salt;Greece;Marousi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+56;Peanut ;Raw;Unpealed;No Salt;Greece;Marousi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+57;Pistachios;Raw;In- shell;no salt;Greece;Melissia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+58;Pistachios;Raw;In- shell;no salt;Greece;Melissia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+59;Peanut ;Roasted ;Unpealed;Salted;Greece;Melissia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+60;Peanut ;Roasted ;Unpealed;Salted;Iran;Melissia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+61;Pistachios;Raw;no shell;No Salt;Egypt;Melissia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+62;Pistachios ;Roasted ;In- shell;Salted;Greece, PDO Aigina;Omonoia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+63;Pistachios (nutmeat);Raw;no shell;No Salt;Greece;Omonoia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+64;Peanut;Roasted ;Unpealed;Salted;Greece, PDO Aigina;Omonoia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+65;Pistachios ;Roasted ;In- shell;No Salt;Greece, PDO Aigina;Omonoia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+66;Peanut;Roasted ;Pealed ;No Salt;Argentina;Omonoia;March 2024;<l.d;<l.d;<l.d;positive;<l.d
+67;Peanut;Roasted ;Pealed ;Salted;Argentina;Omonoia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+68;Pistachios;Raw;In- shell;No Salt;Greece;Omonoia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+69;Peanut ;Raw;Pealed;No Salt;Argentina;Omonoia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+70;Pistachios (nutmeat);Roasted ;no shell;Salted;Greece;Omonoia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+71;Peanut;Raw;Pealed;No Salt;Greece;Omonoia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+72;Peanut;Roasted ;Unpealed;No Salt;Greece;Omonoia;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+73;Peanut;Raw;Unpealed;No Salt;Argentina;Likovrysi;March 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+74;Peanut;Raw;pealed;No Salt;China;Likovrysi;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+75;Peanut;Raw;pealed;No Salt;Argentina;Likovrysi;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+76;Peanut;Raw;pealed;Salt;China;Marousi;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+77;Peanut;Raw;pealed;Salt;Egypt;Marousi;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+78;Peanut;Raw;Unpealed;No Salt;Argentina;Melissia;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+79;Peanut;Raw;Unpealed;No Salt;Greece;Melissia;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+80;Peanut;Raw;Unpealed;Salt;Asia;Marousi;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+81;Peanut;Raw;Unpealed;Salt;Greece;Marousi;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+82;Pistachios;Raw;In- shell;No Salt;Turkey;Marousi;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+83;Pistachios;Raw;In- shell;No Salt;Greece;Marousi;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+84;Pistachios (nutmeat);Roasted ;no shell;Salted;Turkey ;Halandri ;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+85;Pistachios (nutmeat);Roasted ;no shell;Salted;Greece;Halandri ;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
+86;Pecan;Raw;no shell;No Salt;USA;Likovrysi;May 2024;<l.d;<l.d;<l.d;<l.d;positive
+87;Walnuts;Raw;no shell;No Salt;Ukraine;Likovrysi;May 2024;<l.d;<l.d;<l.d;<l.d;<l.d
